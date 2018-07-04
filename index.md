@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 身を人柱にして、市販サプリを真剣に考えるサイト
 
 You can use the [editor on GitHub](https://github.com/ysawawasay/supple50.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
